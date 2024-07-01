@@ -15,9 +15,9 @@ const Secondarycard: React.FC<SecondarycardProps> = ({
   children,
 }) => {
   return (
-    <div className="h-80 w-full flex flex-col justify-evenly bg-slate-300 items-start rounded-xl border border-stroke px-5 py-6 shadow-default dark:border-strokedark dark:bg-boxdark">
+    <Link href='' className="h-80 w-full bg-white flex flex-col justify-evenly items-start rounded-xl border border-stroke px-5 py-2 shadow-default dark:border-strokedark dark:bg-boxdark">
         {children}
-    </div>
+    </Link>
   );
 };
 

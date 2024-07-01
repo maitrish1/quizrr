@@ -4,6 +4,8 @@ import LibraryBooksOutlinedIcon from "@mui/icons-material/LibraryBooksOutlined";
 import AccessAlarmsOutlinedIcon from "@mui/icons-material/AccessAlarmsOutlined";
 import CardTravelOutlinedIcon from "@mui/icons-material/CardTravelOutlined";
 import Link from "next/link";
+import NorthEastOutlinedIcon from '@mui/icons-material/NorthEastOutlined';
+
 interface CardDataStatsProps {
   title: string;
   tests: number;
@@ -16,30 +18,30 @@ const CardDataStats: React.FC<CardDataStatsProps> = ({
   children,
 }) => {
   return (
-    <div className="h-80 w-1/3 flex flex-col items-center rounded-xl border border-stroke bg-white px-5 py-6 shadow-default dark:border-strokedark dark:bg-boxdark">
-      <div className="flex h-auto w-52 items-center justify-center">
+    <div className="h-80 w-1/3 flex flex-col items-center rounded-xl border border-stroke bg-white px-3 py-6 shadow-default dark:border-strokedark dark:bg-boxdark">
+      <div className="flex h-auto w-56 items-center justify-center">
         {children}
       </div>
 
-      <div className="mt-4 w-full flex flex-col items-start h-fit gap-2">
-        <h4 className="flex gap-2 text-title-md font-bold text-black dark:text-white">
+      <div className="mt-4 w-full flex flex-col items-start h-fit">
+        <h5 className="flex gap-2 text-title-md font-bold text-black dark:text-white">
           <MenuBookOutlinedIcon />
-          <span> {tests} Tests</span>
-        </h4>
+          <span> {tests} Tests  </span>
+        </h5>
         <div className="text-md flex gap-2 font-medium">
           <LibraryBooksOutlinedIcon />
           <span>{title}</span>
         </div>
-        <Link href={`/${title.toLowerCase()}`}>
+        <Link href={`/physics`}>
           <div className="flex gap-2">
             <AccessAlarmsOutlinedIcon />
-            <span>{title} this year</span>
+            <span>Take {title} tests <NorthEastOutlinedIcon fontSize="small"/></span>
           </div>
         </Link>
-        <Link href={`/${title.toLowerCase()}`}>
+        <Link href={`/physics`}>
           <div className="flex gap-2">
             <CardTravelOutlinedIcon />
-            <span>{title} previous year</span>
+            <span>Take {title} PY tests <NorthEastOutlinedIcon fontSize="small"/></span>
           </div>
         </Link>
       </div>
