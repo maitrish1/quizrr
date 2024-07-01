@@ -11,9 +11,8 @@
 }
 
 @layer utilities {
-    /* Chrome, Safari and Opera */
     .no-scrollbar::-webkit-scrollbar {
-        display: none;
+        display: none; /* Hide scrollbar in Webkit-based browsers */
     }
 
     .no-scrollbar {
@@ -29,5 +28,3 @@
         @apply h-[calc(100vh_-_8.125rem)] lg:h-[calc(100vh_-_5.625rem)];
     }
 }
-
-

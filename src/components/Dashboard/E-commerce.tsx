@@ -14,9 +14,9 @@ import CalendarMonthOutlinedIcon from "@mui/icons-material/CalendarMonthOutlined
 import FunctionsOutlinedIcon from "@mui/icons-material/FunctionsOutlined";
 import ChecklistOutlinedIcon from "@mui/icons-material/ChecklistOutlined";
 import MarksOverTimeChart from "../Charts/MarksOverTimeChart";
-import ChatCard from "../Chat/ChatCard";
 import DateCalendarServerRequest from "../Calender/HighlightCalender";
 import LockOutlinedIcon from "@mui/icons-material/LockOutlined";
+import LeaderBoardCard from "../Chat/LeaderBoardCard";
 const ECommerce: React.FC = () => {
   return (
     <div className="flex flex-col gap-8">
@@ -80,11 +80,11 @@ const ECommerce: React.FC = () => {
           </div>
         </div>
       </div>
-      <div className="flex justify-between">
+      <div className="flex gap-8 justify-between">
         <MarksOverTimeChart />
 
         <DateCalendarServerRequest />
-        <ChatCard />
+        <LeaderBoardCard />
       </div>
     </div>
   );
