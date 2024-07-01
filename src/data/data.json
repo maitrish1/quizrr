@@ -1,0 +1,1021 @@
+{
+    "success": true,
+    "message": "Pack tests sent successfully",
+    "data": {
+        "count": 31,
+        "hasNextPage": true,
+        "isPackPurchased": false,
+        "subgroups": [
+            {
+                "title": "Units and Dimensions",
+                "tests": [
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8126",
+                            "title": "Units and Dimensions - Test 1",
+                            "description": "Topics covered: Units, Dimensions",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Units, Dimensions",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f812f",
+                            "title": "Units and Dimensions - Test 2",
+                            "description": "Topics covered: Dimensions",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Dimensions",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8131",
+                            "title": "Units and Dimensions - Test 3",
+                            "description": "Topics covered: Dimensions",
+                            "totalTime": 20,
+                            "totalQuestions": 10,
+                            "totalMarks": 40,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Dimensions",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Chapter Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8133",
+                            "title": "Units and Dimensions - Chapter Test",
+                            "description": "Questions from all topics of the chapter",
+                            "totalTime": 60,
+                            "totalQuestions": 30,
+                            "totalMarks": 120,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Questions from all topics of the chapter",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Motion In One Dimension",
+                "tests": [
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8135",
+                            "title": "Motion In One Dimension - Test 1",
+                            "description": "Topics covered: Rest and Motion",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Rest and Motion",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8137",
+                            "title": "Motion In One Dimension - Test 2",
+                            "description": "Topics covered: Uniform Motion",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Uniform Motion",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8139",
+                            "title": "Motion In One Dimension - Test 3",
+                            "description": "Topics covered: Non-uniform Motion, Graphs of motion in one dimension, Newton's laws of motion",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Non-uniform Motion, Graphs of motion in one dimension, Newton's laws of motion",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f813b",
+                            "title": "Motion In One Dimension - Test 4",
+                            "description": "Topics covered: Relative Motion",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Relative Motion",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Chapter Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f813d",
+                            "title": "Motion In One Dimension - Chapter Test",
+                            "description": "Questions from all topics of the chapter",
+                            "totalTime": 60,
+                            "totalQuestions": 30,
+                            "totalMarks": 120,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Questions from all topics of the chapter",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Motion In Two Dimensions",
+                "tests": [
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f813f",
+                            "title": "Motion In Two Dimensions - Test 1",
+                            "description": "Topics covered: Relative motion",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Relative motion",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8141",
+                            "title": "Motion In Two Dimensions - Test 2",
+                            "description": "Topics covered: Projectile motion",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Projectile motion",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8143",
+                            "title": "Motion In Two Dimensions - Test 3",
+                            "description": "Topics covered: Projectile motion",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Projectile motion",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Chapter Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8147",
+                            "title": "Motion In Two Dimensions - Chapter Test",
+                            "description": "Questions from all topics of the chapter",
+                            "totalTime": 60,
+                            "totalQuestions": 30,
+                            "totalMarks": 120,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Questions from all topics of the chapter",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8145",
+                            "title": "Motion In Two Dimensions - Test 4",
+                            "description": "Topics covered: Uniform Circular Motion",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Uniform Circular Motion",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Laws of Motion",
+                "tests": [
+                    {
+                        "testType": "Chapter Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8151",
+                            "title": "Laws of Motion - Chapter Test",
+                            "description": "Questions from all topics of the chapter",
+                            "totalTime": 60,
+                            "totalQuestions": 30,
+                            "totalMarks": 120,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Questions from all topics of the chapter",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8149",
+                            "title": "Laws of Motion - Test 1",
+                            "description": "Topics covered: Equilibrium of Forces",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Equilibrium of Forces",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f814b",
+                            "title": "Laws of Motion - Test 2",
+                            "description": "Topics covered: Newton's laws of motion",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Newton's laws of motion",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f814d",
+                            "title": "Laws of Motion - Test 3",
+                            "description": "Topics covered: Spring force, Equilibrium of Forces",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Spring force, Equilibrium of Forces",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f814f",
+                            "title": "Laws of Motion - Test 4",
+                            "description": "Topics covered: Frictional force, Equilibrium of Forces",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Frictional force, Equilibrium of Forces",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Work Power Energy",
+                "tests": [
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8153",
+                            "title": "Work Power Energy - Test 1",
+                            "description": "Topics covered: Work done, Power (basics), Energy (basics)",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Work done, Power (basics), Energy (basics)",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8155",
+                            "title": "Work Power Energy - Test 2",
+                            "description": "Topics covered: Energy",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Energy",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8157",
+                            "title": "Work Power Energy - Test 3",
+                            "description": "Topics covered: Energy, Power",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Energy, Power",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab4c0857387255f8159",
+                            "title": "Work Power Energy - Test 4",
+                            "description": "Topics covered: Circular motion, Power",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Circular motion, Power",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Chapter Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f815b",
+                            "title": "Work Power Energy - Chapter Test",
+                            "description": "Questions from all topics of the chapter",
+                            "totalTime": 60,
+                            "totalQuestions": 30,
+                            "totalMarks": 120,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Questions from all topics of the chapter",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Center of Mass Momentum and Collision",
+                "tests": [
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f815f",
+                            "title": "Center of Mass Momentum and Collision - Test 2",
+                            "description": "Topics covered: momentum, Motion of centre of mass",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: momentum, Motion of centre of mass",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f815d",
+                            "title": "Center of Mass Momentum and Collision - Test 1",
+                            "description": "Topics covered: Centre of mass of continuous mass distribution, Centre of mass of discrete particles",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Centre of mass of continuous mass distribution, Centre of mass of discrete particles",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Chapter Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8163",
+                            "title": "Center of Mass Momentum and Collision - Chapter Test",
+                            "description": "Questions from all topics of the chapter",
+                            "totalTime": 60,
+                            "totalQuestions": 30,
+                            "totalMarks": 120,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Questions from all topics of the chapter",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8161",
+                            "title": "Center of Mass Momentum and Collision - Test 3",
+                            "description": "Topics covered: Collisions",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Collisions",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Rotational Motion",
+                "tests": [
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8165",
+                            "title": "Rotational Motion - Test 1",
+                            "description": "Topics covered: Moment of inertia of rigid bodies",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Moment of inertia of rigid bodies",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8167",
+                            "title": "Rotational Motion - Test 2",
+                            "description": "Topics covered: Rotational kinematics, Moment of inertia of rigid bodies, Torque",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Rotational kinematics, Moment of inertia of rigid bodies, Torque",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8169",
+                            "title": "Rotational Motion - Test 3",
+                            "description": "Topics covered: Rotational kinematics, Rolling without Slipping",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Rotational kinematics, Rolling without Slipping",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f816b",
+                            "title": "Rotational Motion - Test 4",
+                            "description": "Topics covered: Collisions in rotation, Combination of translation and rotation, Angular momentum and Angular impulse",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Collisions in rotation, Combination of translation and rotation, Angular momentum and Angular impulse",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Chapter Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f816d",
+                            "title": "Rotational Motion - Chapter Test",
+                            "description": "Questions from all topics of the chapter",
+                            "totalTime": 60,
+                            "totalQuestions": 30,
+                            "totalMarks": 120,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Questions from all topics of the chapter",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Gravitation",
+                "tests": [
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8171",
+                            "title": "Gravitation - Test 2",
+                            "description": "Topics covered: Gravitational field, Gravitational potential and Potential Energy",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Gravitational field, Gravitational potential and Potential Energy",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f816f",
+                            "title": "Gravitation - Test 1",
+                            "description": "Topics covered: Gravitational field, Newton's Law of Gravitation, Acceleration Due to Gravity",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Gravitational field, Newton's Law of Gravitation, Acceleration Due to Gravity",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8173",
+                            "title": "Gravitation - Test 3",
+                            "description": "Topics covered: Acceleration Due to Gravity, Gravitational field, Gravitational potential and Potential Energy",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Acceleration Due to Gravity, Gravitational field, Gravitational potential and Potential Energy",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Chapter Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8177",
+                            "title": "Gravitation - Chapter Test",
+                            "description": "Questions from all topics of the chapter",
+                            "totalTime": 60,
+                            "totalQuestions": 30,
+                            "totalMarks": 120,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Questions from all topics of the chapter",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 1",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8175",
+                            "title": "Gravitation - Test 4",
+                            "description": "Topics covered: Motion of satellite, Kepler laws",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Motion of satellite, Kepler laws",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Mechanical Properties of Solids",
+                "tests": [
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 2",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8179",
+                            "title": "Mechanical Properties of Solids - Test 1",
+                            "description": "Topics covered: Elasticity, Young's Modulus and Breaking Stres",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Elasticity, Young's Modulus and Breaking Stres",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 2",
+                        "test": {
+                            "_id": "66067ab5c0857387255f817b",
+                            "title": "Mechanical Properties of Solids - Test 2",
+                            "description": "Topics covered: Young's Modulus and Breaking Stres, Work Done in Stretching a Wire, Elasticity",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Young's Modulus and Breaking Stres, Work Done in Stretching a Wire, Elasticity",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 2",
+                        "test": {
+                            "_id": "66067ab5c0857387255f817d",
+                            "title": "Mechanical Properties of Solids - Test 3",
+                            "description": "Topics covered: Young's Modulus and Breaking Stres, Shearing stress, Bulk Modulus",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Young's Modulus and Breaking Stres, Shearing stress, Bulk Modulus",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Chapter Test",
+                        "unit": "Mechanics 2",
+                        "test": {
+                            "_id": "66067ab5c0857387255f817f",
+                            "title": "Mechanical Properties of Solids - Chapter Test",
+                            "description": "Questions from all topics of the chapter",
+                            "totalTime": 50,
+                            "totalQuestions": 25,
+                            "totalMarks": 100,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Questions from all topics of the chapter",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Mechanical Properties of Fluids",
+                "tests": [
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 2",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8181",
+                            "title": "Mechanical Properties of Fluids - Test 1",
+                            "description": "Topics covered: Pressure and thrust, Pascal's Law",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Pressure and thrust, Pascal's Law",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 2",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8183",
+                            "title": "Mechanical Properties of Fluids - Test 2",
+                            "description": "Topics covered: Archmidies Principle, Pascal's Law",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Archmidies Principle, Pascal's Law",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 2",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8185",
+                            "title": "Mechanical Properties of Fluids - Test 3",
+                            "description": "Topics covered: Hydrodynamics",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Hydrodynamics",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 2",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8189",
+                            "title": "Mechanical Properties of Fluids - Test 5",
+                            "description": "Topics covered: Surface tension",
+                            "totalTime": 40,
+                            "totalQuestions": 20,
+                            "totalMarks": 80,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Surface tension",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Topic Test",
+                        "unit": "Mechanics 2",
+                        "test": {
+                            "_id": "66067ab5c0857387255f8187",
+                            "title": "Mechanical Properties of Fluids - Test 4",
+                            "description": "Topics covered: Efflux of liquid, Viscosity",
+                            "totalTime": 30,
+                            "totalQuestions": 15,
+                            "totalMarks": 60,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Topics covered: Efflux of liquid, Viscosity",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    },
+                    {
+                        "testType": "Chapter Test",
+                        "unit": "Mechanics 2",
+                        "test": {
+                            "_id": "66067ab5c0857387255f818b",
+                            "title": "Mechanical Properties of Fluids - Chapter Test",
+                            "description": "Questions from all topics of the chapter",
+                            "totalTime": 60,
+                            "totalQuestions": 30,
+                            "totalMarks": 120,
+                            "startDate": "2024-04-15T03:30:00.000Z",
+                            "endDate": "2025-08-31T18:29:59.000Z",
+                            "detailAccessDate": "2024-04-15T03:30:00.000Z",
+                            "analysisVideo": "",
+                            "type": "paid",
+                            "syllabus": "Questions from all topics of the chapter",
+                            "isTestAttemptedByUser": false,
+                            "totalMarkScored": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

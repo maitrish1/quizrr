@@ -21,6 +21,7 @@ const Sidebar = () => {
           <ul className="mb-6 flex flex-col gap-1.5">
             <li>
               <Link href="/">Dashboard</Link>
+              <Link href="/physics">Physics</Link>
             </li>
           </ul>
         </nav>

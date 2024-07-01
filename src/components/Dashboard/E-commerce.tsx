@@ -15,6 +15,7 @@ import FunctionsOutlinedIcon from "@mui/icons-material/FunctionsOutlined";
 import ChecklistOutlinedIcon from "@mui/icons-material/ChecklistOutlined";
 import MarksOverTimeChart from "../Charts/MarksOverTimeChart";
 import ChatCard from "../Chat/ChatCard";
+import DateCalendarServerRequest from "../Calender/HighlightCalender";
 
 const ECommerce: React.FC = () => {
   return (
@@ -58,6 +59,8 @@ const ECommerce: React.FC = () => {
       </div>
       <div className="flex justify-between">
         <MarksOverTimeChart/>
+        
+        <DateCalendarServerRequest />
         <ChatCard/>
       </div>
       
