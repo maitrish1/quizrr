@@ -20,7 +20,7 @@ import LeaderBoardCard from "../Chat/LeaderBoardCard";
 const ECommerce: React.FC = () => {
   return (
     <div className="flex flex-col gap-8">
-      <div className="flex flex-row gap-8">
+      <div className="flex flex-row gap-18 ">
         <div className="flex w-2/3 flex-col items-stretch justify-between">
           <div className="flex flex-row gap-8">
             <CardDataStats title="Physics" tests={40}>
@@ -35,8 +35,7 @@ const ECommerce: React.FC = () => {
           </div>
         </div>
 
-        <div className="w-1/3">
-          <div className="flex flex-row gap-10">
+        <div className="w-1/3 flex justify-end">
             <Secondarycard title="Resources">
               <div className="flex flex-col w-full space-y-1">
                 <div className="flex items-center justify-between rounded-lg bg-blue-200 p-4">
@@ -77,10 +76,9 @@ const ECommerce: React.FC = () => {
                 </div>
               </div>
             </Secondarycard>
-          </div>
         </div>
       </div>
-      <div className="flex gap-8 justify-between">
+      <div className="flex gap-5 justify-between">
         <MarksOverTimeChart />
 
         <DateCalendarServerRequest />
