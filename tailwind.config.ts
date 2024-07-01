@@ -31,7 +31,7 @@ const config: Config = {
         bodydark1: "#DEE4EE",
         bodydark2: "#8A99AF",
         primary: "#3C50E0",
-        secondary: "#80CAEE",
+        secondary: "##bbf7d0",
         stroke: "#E2E8F0",
         gray: "#EFF4FB",
         graydark: "#333A48",

@@ -87,7 +87,7 @@ export default function DateCalendarServerRequest() {
   };
 
   return (
-    <div className="h-90 w-1/3 flex flex-col items-start rounded-xl border border-stroke bg-white px-5 py-6 shadow-default dark:border-strokedark dark:bg-boxdark">
+    <div className="h-90 w-1/3 flex flex-col items-start rounded-xl border border-stroke bg-white px-5 py-6 shadow-[rgba(0,0,15,0.5)_0px_0px_10px_1.5px] dark:border-strokedark dark:bg-boxdark">
     <h4 className="mb-2 px-7.5 text-xl font-semibold text-black dark:text-white">
         Activity Tracker
       </h4>
