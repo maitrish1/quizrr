@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, ReactNode } from "react";
 import Sidebar from "@/components/Sidebar";
-
+import { Analytics } from "@vercel/analytics/react"
 export default function DefaultLayout({
   children,
 }: {
@@ -18,6 +18,7 @@ export default function DefaultLayout({
           <main>
             <div className="mx-auto max-w-screen-2xl p-2 md:p-2 2xl:p-8">
               {children}
+              <Analytics/>
             </div>
           </main>
         </div>
